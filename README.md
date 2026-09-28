@@ -62,10 +62,7 @@ Fourth-year Computer Science student and freelance full-stack developer. I'm tur
 </div>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AhmeddouhmE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmeddouhm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ahmeddouhm)](https://git.io/streak-stats)
 
 ## 🔗 Connect
 
