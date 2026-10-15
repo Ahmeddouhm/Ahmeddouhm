@@ -14,20 +14,93 @@ var ahmed = new Developer
     Name = "Ahmed Mamdouh Hassan",
     Pronouns = new[] { "He", "Him" },
     Role = "Full-Stack Developer & CS Student",
-    AskMeAbout = new[] { "ASP.NET Core", "REST APIs", "Next.js", "Supabase" },
 
-    Languages = new[] { "C#", "Java", "JavaScript", "TypeScript", "SQL" },
+    AskMeAbout = new[]
+    {
+        "ASP.NET Core",
+        "REST APIs",
+        "Next.js",
+        "Supabase",
+        "Open Source Contributions",
+        "Debugging & Testing"
+    },
+
+    Languages = new[]
+    {
+        "C#",
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "SQL",
+        "Rust"
+    },
 
     Technologies = new Technologies
     {
-        FrontEnd = new[] { "Next.js", "React", "HTML5", "CSS3", "Bootstrap", "Tailwind" },
-        BackEnd  = new[] { "ASP.NET Core", "MVC", "REST APIs", "JWT Auth", "Entity Framework" },
-        Databases = new[] { "SQL Server", "PostgreSQL", "Supabase" },
-        DevOps   = new[] { "Git", "GitHub Actions", "Docker" }
+        FrontEnd = new[]
+        {
+            "Next.js",
+            "React",
+            "HTML5",
+            "CSS3",
+            "Bootstrap",
+            "Tailwind CSS"
+        },
+
+        BackEnd = new[]
+        {
+            "ASP.NET Core",
+            "ASP.NET Core MVC",
+            "REST APIs",
+            "JWT Authentication",
+            "Entity Framework Core"
+        },
+
+        Databases = new[]
+        {
+            "SQL Server",
+            "PostgreSQL",
+            "Supabase"
+        },
+
+        DevOps = new[]
+        {
+            "Git",
+            "GitHub",
+            "GitHub Actions",
+            "Docker"
+        },
+
+        OpenSource = new[]
+        {
+            "Bug Reporting",
+            "Bug Fixes",
+            "Regression Testing",
+            "UI Debugging",
+            "Cross-Platform Debugging",
+            "Git Branching & Pull Requests",
+            "Code Review"
+        },
+
+        Tools = new[]
+        {
+            "Visual Studio",
+            "VS Code",
+            "SSMS",
+            "egui"
+        }
     },
 
-    CurrentFocus = "Building production-ready full-stack apps with .NET and Next.js",
-    FunFact = "I pay attention to details, sometimes down to the pixel."
+    CurrentFocus =
+        "Building production-ready full-stack apps with .NET and Next.js, " +
+        "while contributing to open-source projects.",
+
+    LatestContribution =
+        "Improved path overlay regression tests and fixed path visibility " +
+        "behavior across tools in PhotoCraft.",
+
+    FunFact =
+        "I pay attention to details, sometimes down to the pixel."
 };
 ```
 
