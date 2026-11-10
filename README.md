@@ -2,7 +2,7 @@
 
 ![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:512BD4&height=180&section=header&text=Ahmed%20Mamdouh&fontColor=e6edf3&fontSize=44)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B7BFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+%7C+ASP.NET+Core+%7C+;Clean+code%2C+dirty+vibes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8B7BFF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;C%23+%7C+ASP.NET+Core+;Clean+code%2C+dirty+vibes)](https://git.io/typing-svg)
 
 </div>
 
